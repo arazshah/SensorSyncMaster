@@ -1,5 +1,6 @@
 # SensorSyncMaster
 This application is implemented to monitor a variety of sensors and respond to custom rules depending on sensor type.
+
 **Scenario:**
 
 Supposing I have N sensors in any place, I can just define X and Y location points and the name of the sensor. Now, My mission is to get the data (without losing it) from any sensor at variable intervals and process it using custom commands for each sensor type. (sense 24/7)
